@@ -1,0 +1,6 @@
+langchain_community
+langchain-ollama
+matplotlib
+faiss-cpu
+sentence_transformers
+langchain_huggingface
